@@ -1,2 +1,4 @@
 # Student-Management-System
-Student Management System using Spring Boot
+
+http://localhost:8081/students
+C:\Users\Datta\Desktop\Projects\Student-Management-System\src\main\resources\student-management-system-springboot.sql
